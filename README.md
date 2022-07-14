@@ -1,2 +1,9 @@
 # rblxwild-bomb-viewer
-A bomb viewer 
+
+# version-1
+
+- Enable bomb viewing (UD)
+- Highlight safe spots
+
+
+# vexusz-bomb-viewer
