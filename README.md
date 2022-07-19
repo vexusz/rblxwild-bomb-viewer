@@ -19,3 +19,9 @@ When injecting, it will execute a INTERNAL menu into the website via browser. Yo
 - Chrome
 - Opera (may be buggy)
 - Firefox
+
+### Won't open?
+- Try running as adminstrator instead
+
+### Need more help?
+- https://lurk.lol/bomb/app/faq 
