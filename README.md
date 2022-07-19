@@ -1,6 +1,7 @@
 # rblxwild-bomb-viewer
 
-# version-1
+# Versions
+## 1.4
 
 - Enable bomb viewing (UD)
 - Highlight safe spots
