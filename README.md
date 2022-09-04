@@ -4,7 +4,7 @@
 ## 1.6
 
 - Highlight safe spots (Working Again)
-- Bomb Loss Spoofer (SOMETIMES doesn't remove robux when starting a game. 50/50 chance)
+- Auto win (Automatically starts a mines round with full robux and chooses the safe spots)
 - Highlight bomb spots (Working)
 - Fake robux amount (Working)
 - Spam Chat (Risky | Can get muted)
