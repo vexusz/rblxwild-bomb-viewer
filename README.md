@@ -30,7 +30,8 @@ When injecting, it will execute a INTERNAL menu into the website via browser. Yo
 ### Won't open?
 - Try running as adminstrator instead
 
-### Need more help?
-- https://lurk.lol/bomb/app/faq 
+### Need more help? Visit our FAQ page!
+
+- https://lurk.lol/vexusz/panelx/faq/ [~Being revamped~]
 
 
